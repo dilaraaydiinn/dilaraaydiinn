@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 
 ![image](https://user-images.githubusercontent.com/74300754/234905278-0f812001-3154-43de-854d-2d95d59d0f3b.png)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diilarasimsek&show_icons=true&locale=en&layout=compact" alt="diilarasimsek" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diilarasimsek&show_icons=true&locale=en&layout=compact" alt="diilarasimsek" /></p>
+<img align="right" alt="Coding" width="500" src="![coding](https://user-images.githubusercontent.com/74300754/234931163-1fa46779-8171-4510-aec8-774a90a15ebb.gif)">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diilarasimsek&" alt="diilarasimsek" /></p>
