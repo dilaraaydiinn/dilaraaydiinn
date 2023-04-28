@@ -24,4 +24,4 @@
 
 <p align="center"><img src="https://user-images.githubusercontent.com/74300754/235140156-1e431d4d-0d10-44d9-af50-42993b9d1807.png"></p>
 
-<p> <img align="left" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=diilarasimsek&show_icons=true&locale=en&layout=compact" alt="diilarasimsek" /> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=diilarasimsek&" alt="diilarasimsek" /> </p>
+<p> <img align="left" width="380" src="https://github-readme-stats.vercel.app/api/top-langs?username=diilarasimsek&show_icons=true&locale=en&layout=compact" alt="diilarasimsek" /> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=diilarasimsek&" alt="diilarasimsek" /> </p>
