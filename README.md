@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Dilara</h1>
 <h3 align="justify">I am a Senior Aerospace Engineering Student and Junior Data Scientist with a strong track record of utilizing diverse data sets to solve intricate problems through the implementation of machine learning algorithms. My proficiency in Python and its associated frameworks has allowed me to perform advanced data analysis and manipulation. Currently, I am dedicated to expanding my knowledge and skill set in machine learning, deep learning, and image processing.</h3>
 
-<img align="right" alt="pilot" width="500" src="https://i.pinimg.com/originals/72/34/f8/7234f8c8805833b4d2ec940c4cb6f406.gif">
+<img align="right" alt="pilot" width="400" src="https://i.pinimg.com/originals/72/34/f8/7234f8c8805833b4d2ec940c4cb6f406.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
