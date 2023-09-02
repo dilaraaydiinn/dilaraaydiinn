@@ -5,7 +5,7 @@
 ![Dilara Simsek Junior Data Scientist2](https://user-images.githubusercontent.com/74300754/234919528-84d42f02-5ab3-4a33-a9b0-1ebaa1ab36a0.png)
 
 <h1 align="center">Hi 👋, I'm Dilara</h1>
-<h3 align="justify">I am an Aerospace Engineer and Junior Data Scientist with a strong track record of utilizing diverse data sets to solve intricate problems through the implementation of machine learning algorithms. My proficiency in Python and its associated frameworks has allowed me to perform advanced data analysis and manipulation.
+<h3 align="justify">I am an Aerospace Engineer and a Data Scientist with a strong track record of utilizing diverse data sets to solve intricate problems through the implementation of machine learning algorithms. My proficiency in Python and its associated frameworks has allowed me to perform advanced data analysis and manipulation.
   
 <h3 align="justify">I am currently a participant in Google Machine Learning Bootcamp 2023, where only 150 people were selected from thousands of people. I am also a Tensorflow Professional Developer and I am dedicated to expanding my knowledge and skill set in machine learning, deep learning, and image processing.</h3>
 
