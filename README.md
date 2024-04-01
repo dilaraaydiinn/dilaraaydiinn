@@ -1,13 +1,14 @@
 <!--
-**diilarasimsek/diilarasimsek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dilaraaydiinn/dilaraaydiinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-![Dilara Simsek Junior Data Scientist2](https://user-images.githubusercontent.com/74300754/234919528-84d42f02-5ab3-4a33-a9b0-1ebaa1ab36a0.png)
+![Dilara Aydin Tensorflow Developer](https://github.com/dilaraaydiinn/dilaraaydiinn/assets/74300754/e9946b19-9779-46dc-99fc-e418a8b11601)
+
 
 <h1 align="center">Hi 👋, I'm Dilara</h1>
-<p align="justify">I am an Aerospace Engineer and a Data Scientist with a strong track record of utilizing diverse data sets to solve intricate problems through the implementation of machine learning algorithms. My proficiency in Python and its associated frameworks has allowed me to perform advanced data analysis and manipulation.
+<p align="justify">As an Aerospace Engineer and Tensorflow Professional Developer, I bring a wealth of experience in leveraging varied datasets to tackle complex challenges using machine learning algorithms. With a meticulous approach to problem-solving, I consistently strive to push the boundaries of innovation, ensuring robust solutions that meet and exceed industry standards.
   
-<p align="justify">I am currently a participant in Google Machine Learning Bootcamp 2023, where only 150 people were selected from thousands of people. I am also a Tensorflow Professional Developer and I am dedicated to expanding my knowledge and skill set in machine learning, deep learning, and image processing.</p>
+<p align="justify">Driven by a passion for continuous learning, I am committed to honing my expertise in machine learning, deep learning, and image processing. Through ongoing exploration and experimentation, I aim to stay at the forefront of technological advancements, contributing to groundbreaking developments in the field.</p>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/74300754/235140156-1e431d4d-0d10-44d9-af50-42993b9d1807.png"></p>
 
@@ -15,8 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/diilarasimsek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diilarasimsek" height="30" width="40" /></a>
-<a href="https://kaggle.com/dilarasimsek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dilarasimsek" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dilaraaydinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diilarasimsek" height="30" width="40" /></a>
+<a href="https://kaggle.com/dilaraaydn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dilaraaydn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,4 +27,4 @@
 
 <p align="center"><img src="https://user-images.githubusercontent.com/74300754/235140156-1e431d4d-0d10-44d9-af50-42993b9d1807.png"></p>
 
-<p> <img align="left" width="290" src="https://github-readme-stats.vercel.app/api/top-langs?username=diilarasimsek&show_icons=true&locale=en&layout=compact" alt="diilarasimsek" /> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=diilarasimsek&" alt="diilarasimsek" /> </p>
+<p> <img align="left" width="290" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilaraaydiinn&show_icons=true&locale=en&layout=compact" alt="dilaraaydiinn" /> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dilaraaydiinn&" alt="dilaraaydiinn" /> </p>
