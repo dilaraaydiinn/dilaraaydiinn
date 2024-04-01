@@ -2,7 +2,7 @@
 **dilaraaydiinn/dilaraaydiinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-![Dilara Aydin Tensorflow Developer](https://github.com/dilaraaydiinn/dilaraaydiinn/assets/74300754/e9946b19-9779-46dc-99fc-e418a8b11601)
+![Dilara Aydin Tensorflow Developer](https://github.com/dilaraaydiinn/dilaraaydiinn/assets/74300754/669d9b34-cca3-466f-82b9-418d3e2fca3d)
 
 
 <h1 align="center">Hi 👋, I'm Dilara</h1>
