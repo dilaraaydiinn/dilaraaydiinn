@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Dilara</h1>
-<p align="justify">As an Aerospace Engineer and Tensorflow Professional Developer, I bring a wealth of experience in leveraging varied datasets to tackle complex challenges using machine learning algorithms. With a meticulous approach to problem-solving, I consistently strive to push the boundaries of innovation, ensuring robust solutions that meet and exceed industry standards.
+<p align="justify">As a Data Analyst and Tensorflow Professional Developer, I bring a wealth of experience in leveraging varied datasets to tackle complex challenges using machine learning algorithms. With a meticulous approach to problem-solving, I consistently strive to push the boundaries of innovation, ensuring robust solutions that meet and exceed industry standards.
   
 <p align="justify">Driven by a passion for continuous learning, I am committed to honing my expertise in machine learning, deep learning, and image processing. Through ongoing exploration and experimentation, I aim to stay at the forefront of technological advancements, contributing to groundbreaking developments in the field.</p>
 
